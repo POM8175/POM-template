@@ -7,7 +7,7 @@ public abstract class PomSubsystem extends SubsystemBase {
     }
     public void setMotor(double speed){
         
-    }
+    } 
     public void resetEncoder(){
         
     }
